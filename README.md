@@ -6,11 +6,11 @@ This repository contains the code for building a Netflix-inspired home page usin
 - Dynamic content: Placeholder content is used to mimic Netflix's movie and TV show recommendations.
 - CSS styling: The stylesheets provide a sleek and modern look, resembling the Netflix branding.
 # Preview
-![image](https://github.com/kk6024/Home-Page-Of-Netflix/assets/97515723/eb84deea-4072-4f51-8e3a-3ed6812ad2e7)
+![image](https://github.com/NarniRojesh/Home_page_of_netflix/assets/145794830/975c8a4e-4f3b-43df-8dfa-6df5d0f02029)
 # License
 - This project is licensed under the MIT License. Feel free to use the code for personal or commercial purposes.
 # Contact
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : SRI SIVA HARI KISHORE KOMARINA
-- Email: ksshkishore@gmail.com
+- Your Name : NarniRojesh
+- Email: narnirojesh@gmail.com
